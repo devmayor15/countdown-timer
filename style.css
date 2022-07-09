@@ -37,16 +37,16 @@ h2{
 
 /* media query designs */
 @media(max-width: 678px){
-    h2{
-        font-size: 1.8rem;
+    h3{
+        font-size: 2rem;
     }
     .day,
     .hour,
     .minute,
     .second{
-        font-size: 1.3rem;
+        font-size: 1.6rem;
     }
     h3{
-        font-size: .5rem;
+        font-size: 1rem;
     }
 }
