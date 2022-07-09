@@ -6,7 +6,9 @@
 }
 body{
     font-family: 'Lato', sans-serif;
-}
+    background-image: linear-gradient(to right top, #030e4f, #220434, #23001f, #1a000f, #000000);
+    color: #fff;
+}   
 
 h2{
     font-size: 5rem;
@@ -30,4 +32,18 @@ h2{
 .second{
     font-size: 3rem;
 
+}
+
+
+/* media query designs */
+@media(max-width: 678px){
+    h2{
+        font-size: 2.5rem;
+    }
+    .day,
+    .hour,
+    .minute,
+    .second{
+        font-size: 1.5rem;
+    }
 }
