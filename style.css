@@ -38,15 +38,15 @@ h2{
 /* media query designs */
 @media(max-width: 678px){
     h2{
-        font-size: 1.7rem;
+        font-size: 1.8rem;
     }
     .day,
     .hour,
     .minute,
     .second{
-        font-size: 1rem;
+        font-size: 1.3rem;
     }
     h3{
-        font-size: 1.1rem;
+        font-size: .5rem;
     }
 }
